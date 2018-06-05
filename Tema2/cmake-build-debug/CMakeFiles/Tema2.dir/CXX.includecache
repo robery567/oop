@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rco/Desktop/Tema2/main.cpp
+iostream
+-
+segment.h
+C:/Users/rco/Desktop/Tema2/segment.h
+
+C:/Users/rco/Desktop/Tema2/segment.h
+iostream
+-
+string
+-
+cmath
+-
+
