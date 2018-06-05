@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robery567/programare/Tema_Membru/club.h
+iostream
+-
+membru.h
+/Users/robery567/programare/Tema_Membru/membru.h
+map
+-
+
+/Users/robery567/programare/Tema_Membru/main.cpp
+iostream
+-
+club.h
+/Users/robery567/programare/Tema_Membru/club.h
+
+/Users/robery567/programare/Tema_Membru/membru.h
+iostream
+-
+

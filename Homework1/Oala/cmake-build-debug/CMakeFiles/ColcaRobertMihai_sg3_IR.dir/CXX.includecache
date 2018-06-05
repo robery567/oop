@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robery567/programare/ColcaRobertMihai_sg3_IR/main.cpp
+iostream
+-
+map
+-
+string
+-
+oala.h
+/Users/robery567/programare/ColcaRobertMihai_sg3_IR/oala.h
+
+/Users/robery567/programare/ColcaRobertMihai_sg3_IR/oala.h
+iostream
+-
+string
+-
+

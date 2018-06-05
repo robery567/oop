@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="ColcaRobertMihai_sg3_IR" targetName="ColcaRobertMihai_sg3_IR" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="044f3697-81e8-4750-8827-18f006780251" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oala.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oala.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+              <folding>
+                <element signature="e#35#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/oala.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ColcaRobertMihai_sg3_IR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColcaRobertMihai_sg3_IR" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ColcaRobertMihai_sg3_IR">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ColcaRobertMihai_sg3_IR" RUN_TARGET_NAME="ColcaRobertMihai_sg3_IR" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="ColcaRobertMihai_sg3_IR" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ColcaRobertMihai_sg3_IR" TARGET_NAME="ColcaRobertMihai_sg3_IR" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ColcaRobertMihai_sg3_IR" RUN_TARGET_NAME="ColcaRobertMihai_sg3_IR" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.ColcaRobertMihai_sg3_IR" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="044f3697-81e8-4750-8827-18f006780251" name="Default" comment="" />
+      <created>1524692016707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524692016707</updated>
+      <workItem from="1524692018236" duration="5907000" />
+      <workItem from="1524721383870" duration="1585000" />
+      <workItem from="1524774392588" duration="301000" />
+      <workItem from="1524775147395" duration="54000" />
+      <workItem from="1524775230608" duration="518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8365000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="812" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19384836" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CMake" order="7" />
+      <window_info anchor="right" id="LuaJ" order="3" />
+      <window_info anchor="bottom" id="TeamCity" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286517" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.3286517" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oala.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oala.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oala.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oala.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="62" lean-forward="true" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oala.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
