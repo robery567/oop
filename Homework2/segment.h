@@ -76,6 +76,14 @@ class Segment {
         }
 
         /**
+         * Gets the segment color
+         * @return
+         */
+        string getSegmentColor() {
+            return this->color;
+        }
+
+        /**
          * The << operator overloading
          * @param &ostream os
          * @param &obj obj
