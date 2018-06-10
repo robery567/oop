@@ -8,10 +8,10 @@ using namespace std;
 
 int main() {
     Segment segments[4] = {
-            {2, 3, 4, 5, "red"},
+            {2, 3, 2, 5, "red"},
             {1, 1, 7, 7, "blue"},
             {10, 1, 3, 4, "grey"},
-            {13, 5, 1, 1, "yellow"}
+            {13, 5, 4, 5, "yellow"}
     };
 
     map<pair<double, double>, int> point;
@@ -36,7 +36,8 @@ int main() {
             point.insert(make_pair(object.getSecondPointCoordinates(), 1));
         }
 
-        cout << object << endl;
+        cout << object;
+        cout << "Segment type: " << Segment::determineSegmentType(object.getFirstPointCoordinates(), object.getSecondPointCoordinates()) << endl << endl;
 
         ++objIndex;
     }

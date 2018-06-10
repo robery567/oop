@@ -94,6 +94,27 @@ class Segment {
             os << "B(" << obj.xB << "," << obj.yB << ")" << endl;
             os << "Color: " << obj.color << endl;
             os << "Length: " << obj.getSegmentLength() << endl;
+
+            return os;
+        }
+
+       static string determineSegmentType(pair<double, double> a, pair<double, double> b) {
+            if (a == b) {
+                return 0;
+            }
+
+            // The segment is horizontal
+            if (a.first == b.first) {
+                return "vertical";
+            }
+
+            // The segment is vertical
+            if (a.second == b.second) {
+                return "horizontal";
+            }
+
+            // Oblique
+            return "oblique";
         }
 };
 
