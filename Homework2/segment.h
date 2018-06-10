@@ -98,9 +98,15 @@ class Segment {
             return os;
         }
 
+        /**
+         *
+         * @param a
+         * @param b
+         * @return
+         */
        static string determineSegmentType(pair<double, double> a, pair<double, double> b) {
             if (a == b) {
-                return 0;
+                return "Not a segment";
             }
 
             // The segment is horizontal
